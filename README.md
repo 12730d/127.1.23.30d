@@ -6,6 +6,12 @@ Any scripts, software, or other services offered in this repository are propriet
 DOS services are personal and not for the public
 These networks are used to control anything near them and raise their control powers, such as
 
+## private dns
+## Silent connection
+## Random proxy
+## Full coverage of the files you pass through
+## Extract all network names saved on the caller's device and rebroadcast them again
+
 | :warning: (Camera) (Home appliances) (Router modem) Android devices) (Data sniffing) (Sending payloads) (Keeping the target available at any time) |
 | --- |
 
