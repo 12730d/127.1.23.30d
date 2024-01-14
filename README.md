@@ -12,7 +12,8 @@ These networks are used to control anything near them and raise their control po
 4. Full coverage of the files you pass through
 5. Extract all network names saved on the caller's device and rebroadcast them again
 
-| :warning: (Camera) (Home appliances) (Router modem) Android devices) (Data sniffing) (Sending payloads) (Keeping the target available at any time) |
+(Camera) (Home appliances) (Router modem) Android devices) (Data sniffing) (Sending payloads) (Keeping the target available at any time) (Printers)
+| :warning: |
 | --- |
 
 
