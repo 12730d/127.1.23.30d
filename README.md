@@ -3,6 +3,9 @@ This repository is private, and the creator of this repository will not be respo
 
 Any scripts, software, or other services offered in this repository are proprietary execution files built with {30D} client code.
 
+
+
+
 DOS services are personal and not for the public
 These networks are used to control anything near them and raise their control powers, such as
 
