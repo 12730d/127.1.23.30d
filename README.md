@@ -33,6 +33,6 @@ These networks are used to control anything near them and raise their control po
 ### Connections
 
 | ESSID | BSSID | password |
-| Dos-service:`1` | 0f:83:83:6c:6c:e5 | 127.0.`1`.30d
-| Dos-service:`2` | 79:3c:52:d7:88:24 | 127.0.`2`30d 
-| Dos-service:`999` | b9:17:6a:35:8f:4f | 127.0.`999`.30d
+| Dos-service:`1` | 0f:83:83:6c:6c:e5 | 127.0.`1`.30d |
+| Dos-service:`2` | 79:3c:52:d7:88:24 | 127.0.`2`30d |
+| Dos-service:`999` | b9:17:6a:35:8f:4f | 127.0.`999`.30d |
