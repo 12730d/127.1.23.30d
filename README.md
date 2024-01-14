@@ -14,7 +14,7 @@ These networks are used to control anything near them and raise their control po
 
 ### Connections
 
-| ESP8266 | Atmega32u4 |
+| item | version |
 | ------- | ---------- |
 | `Camera` | `All versions` |
 | `Home appliances` | `All versions` |
