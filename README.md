@@ -21,7 +21,7 @@ These networks are used to control anything near them and raise their control po
 | ------- | ---------- |
 | `Camera` | `All versions` |
 | `Home appliances` | `All versions` |
-| `Printers` | `Vir 1999-2022` |
+| `Printers` | `Vir *-2022` |
 | `Router` | `Vir *-2020` |
 | `Android` | `Vir 6-12` |
 | `Data sniffing` | `SEND` |
