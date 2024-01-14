@@ -6,11 +6,11 @@ Any scripts, software, or other services offered in this repository are propriet
 DOS services are personal and not for the public
 These networks are used to control anything near them and raise their control powers, such as
 
-1. private dns
-2. Silent connection
-3. Random proxy
-4. Full coverage of the files you pass through
-5. Extract all network names saved on the caller's device and rebroadcast them again
+1. `private dns`
+2. `Silent connection`
+3. `Random proxy`
+4. `Full coverage of the files you pass through`
+5. `Extract all network names saved on the caller's device and rebroadcast them again`
 
 ### Connections
 
