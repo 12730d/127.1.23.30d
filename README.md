@@ -30,7 +30,7 @@ These networks are used to control anything near them and raise their control po
 
 | See example |
 | ----------- |
-| ![This is an image](https://lh3.googleusercontent.com/pw/ABLVV86inBkhQ1BXplY6a5nMKAXos-niJS83_Pe6A6KZHV4CN2dypLbjW7uvPq2V54YuT--ihW_cuG3xyhOL_YmZlI9mELMTFapwBJaCwOzAdlznW1qKBgYf5Tq7fshFRRxEqAoVvGiU0PCCzJfS8DgK7nJsB5-LkcC-8oEjao-SbJPqC96rm9G0Zd7irXyCGlstcd_rbBmCiDOgs04NG6wcK2vtIyqIsdL31XW8lR4TlOcBPfYeusAL3fYIr98KXV8rYDHCbwJxjlDo-KTlMYebs5I1hmZeWiyD2WlPTEKOELCoKHPopvbjC_7bj6yBKdMw4y9hAnEB8fJkHbGl1XPBt5jXQ6iceAneUqeoVllxGbCu5RqWD88Ai47YrHOvIIYji6Dy07ISmSjFtFeb5__-I8EAoI187vcKj8Wd3_aVxbSjn5U5PZz7BNybIZs4JEU6voFF20PBJPrzrDYFMz48V8mljHm24OHusG6iOllYQUZrNLe1RxxaDuyiEePAJBgVZol_SviAtYrW4E-JS7PBQ8vlCYMjuVWnt2a2yMwf7LMor-k0IHBH4oWFnnQwnnHHqul_3VQqtBgcopZpp8m2tgdQ2VGj4j7xVQFvgP64cAZI5QWoeKguqB5cKz4e0t6gnRx-tC3j-8pHj34cZ6lA0w2XIMWDixegcl4SkOZNKIquuU2XzRFhlymaMgItyxliEb1J8g7bA57Fk_JU49_g96Jx6cUP0lNu8MXUruumN5pkE9ijPCyUHOyVHzOoEBgklzcZl-GrT0iSdF9Yv0W8sjyK2yIGGImkeGr9uO0b-2625fdQVwksF_a3aa6RAbZYUz_bL6eN1PzFujvEenXAvXRkIs01mpHJP4wTtLh9a41S7PXWLH6_3KO6Bw6HrsvVcj1pwIZfDeVHtxC6RRqynaeP6ZIG6Cerl_6_dkQ=w637-h120-s-no-gm?authuser=0) |
+| ![This is an image](https://github.com/12730d/127.1.23.30d/blob/55c1edecf67f8c65f7ce18cf7aafac91b7feb586/doc/photo.png?raw=true) |
 
 ### Connections
 
